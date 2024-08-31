@@ -1,0 +1,21 @@
+{
+  "credits": {
+    "author": "Dmitry Naumov",
+    "link": "https://github.com/yanecoder",
+    "title": "SnakeAI"
+  },
+  "initialization": {
+    "window_size": [800, 600],
+    "H_FPS": 120,
+    "FPS": 30
+  },
+  "colors": {
+    "ceil": [10, 10, 10],
+    "snake": [50, 118, 0],
+    "apple": [188, 14, 14]
+  },
+  "settings": {
+    "ceil_size": 20,
+    "ceil_border": 1
+  }
+}
